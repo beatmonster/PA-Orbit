@@ -7,3 +7,9 @@ Nama Anggota :
 
 Link Dataset :
 https://www.kaggle.com/datasets/dheerajperumandla/drowsiness-dataset
+
+Link Colab Training tanpa Augmentasi Data :
+https://colab.research.google.com/drive/1W21qngHJGtAXN3gMtBk4lIx1pPD40Hiy
+
+Link Colab Training dengan Augmentasi Data :
+https://colab.research.google.com/drive/1eOpE_JEkYAxFDMQL3QNeeJbr4dXvvohq
